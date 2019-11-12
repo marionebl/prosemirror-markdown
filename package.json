@@ -1,5 +1,5 @@
 {
-  "name": "prosemirror-markdown",
+  "name": "@marionebl/prosemirror-markdown",
   "version": "1.4.0",
   "description": "ProseMirror Markdown integration",
   "main": "dist/index.js",
