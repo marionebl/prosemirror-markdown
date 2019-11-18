@@ -1,9 +1,11 @@
 {
   "name": "@marionebl/prosemirror-markdown",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "ProseMirror Markdown integration",
   "license": "MIT",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/prosemirror/prosemirror-markdown-wrapper.git"
